@@ -7,7 +7,7 @@ vida, caso todos os corações desapareçam o jogador perderá e precisará reco
 início da primeira room.
 
 Mush é um personagem que pode andar para frente usando a tecla “D” e para trás usando
-a tecla “A”, além de pular usando o “backspace”.
+a tecla “A”, além de pular usando o “backspace” e entra em portas para passar de fase pressionando "w".
 
 <h1>Câmera</h1><br>
 A visão do jogo segue a dinâmica Side-Scrolling, no qual a visão é lateral e a câmera vai
